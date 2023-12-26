@@ -90,3 +90,6 @@
     }
     }
 ```
+
+*    ### Вывод в терминале:
+![](https://i.ibb.co/B4ZdQgH/vyvod1.jpg)
